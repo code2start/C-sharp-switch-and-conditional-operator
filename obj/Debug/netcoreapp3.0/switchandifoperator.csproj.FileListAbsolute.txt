@@ -1,0 +1,11 @@
+C:\csharp\ar\switchandifoperator\bin\Debug\netcoreapp3.0\switchandifoperator.exe
+C:\csharp\ar\switchandifoperator\bin\Debug\netcoreapp3.0\switchandifoperator.deps.json
+C:\csharp\ar\switchandifoperator\bin\Debug\netcoreapp3.0\switchandifoperator.runtimeconfig.json
+C:\csharp\ar\switchandifoperator\bin\Debug\netcoreapp3.0\switchandifoperator.runtimeconfig.dev.json
+C:\csharp\ar\switchandifoperator\bin\Debug\netcoreapp3.0\switchandifoperator.dll
+C:\csharp\ar\switchandifoperator\bin\Debug\netcoreapp3.0\switchandifoperator.pdb
+C:\csharp\ar\switchandifoperator\obj\Debug\netcoreapp3.0\switchandifoperator.csprojAssemblyReference.cache
+C:\csharp\ar\switchandifoperator\obj\Debug\netcoreapp3.0\switchandifoperator.AssemblyInfoInputs.cache
+C:\csharp\ar\switchandifoperator\obj\Debug\netcoreapp3.0\switchandifoperator.AssemblyInfo.cs
+C:\csharp\ar\switchandifoperator\obj\Debug\netcoreapp3.0\switchandifoperator.dll
+C:\csharp\ar\switchandifoperator\obj\Debug\netcoreapp3.0\switchandifoperator.pdb
